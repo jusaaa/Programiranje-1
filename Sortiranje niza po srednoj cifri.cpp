@@ -1,3 +1,8 @@
+/*Napisati program koji će učitati prirodni broj n s 10, a zatim n prirodnih trocifrenih brojeva koje treba pospremiti u odgovarajući niz. 
+Taj niz brojeva treba sortirati uzlazno po srednjoj cifri.
+Nakon sortiranja treba ispisati dobiveni niz.
+Za sortiranje koristiti zasebnu funkciju kojoj se proslijeđuje nesortiran niz.*/
+
 #include <iostream>
 using namespace std;
 
