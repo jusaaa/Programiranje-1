@@ -1,3 +1,12 @@
+/*Kreirati program koji će pronaći i ispisati sve brojeve od X do Y (uključujući granične vrijednosti)
+koji su deljivi svim svojim ciframa. Na primjer, broj 36 je djeljiv sa brojevima 3 i 6. (36/6-6 i 36/3-12).
+Brojeve X i Y unosi korisnik i moraju biti u opsegu od 10 do 6000. Obavezno koristiti bar jednu funkciju.
+Primier:
+5
+Unesite granice intervala: 32 37
+6
+Brojevi u navedenom opsegu koji zadovoljavaju uslov su: 33, 36.*/
+
 #include <iostream>
 using namespace std;
 
