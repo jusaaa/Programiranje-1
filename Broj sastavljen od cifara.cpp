@@ -1,3 +1,6 @@
+/*Napisati program u kojem je potrebno unijeti odabrani broj cifara počevši od cifre najveće težinske vrijednosti, pa od njih sastaviti i ispisati prirodni broj.
+Unos cifara se prekida kada se unese broj manji od 0, ukoliko korisnik unese cifru vecu od 9, ispisati poruku da cifra nije validna, ali se unos ne prekida. */
+
 #include <iostream>
 using namespace std;
 
