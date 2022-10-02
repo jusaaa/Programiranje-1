@@ -1,3 +1,13 @@
+/*Napišite program u kojem ćete kreirati niz od 5 studenata.
+Kreirajte funkcije:
+· za unos obilježja studenta – neka funkcija prima pokazivač na student;· za ispis obilježja studenta – neka funkcija prima pokazivač na student;
+· za validacija unesenog datuma rođenja – funkcija prima pokazivač na datum a vraća true ako
+je datum validan (npr. 2.2.2002.) ili vraća false ako datum nije validan (npr. 17.23.100000.);
+· za prebrojavanje studenata čiji datum rođenja nije validan – funkcija prima pokazivač na
+student;
+· pronalaženje prvog studenta (u nizu) čiji datum rođenja nije validan; funkcija prima i vraća
+pokazivač na student;
+· pozvati sve prethodne funkcije preko pokazivača*/
 
 #include<iostream>
 #include<string.h>
