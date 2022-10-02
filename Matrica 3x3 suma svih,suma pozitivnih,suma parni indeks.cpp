@@ -60,8 +60,8 @@ int main()
 	int matrica[3][3];
 	unos(0, 0, 3, 3, matrica);
 	ispis(0, 0, 3, 3, matrica);
-	cout<<sumasvih(0, 0, 3, 3, matrica)<<endl;
-	cout << sumapozitivnih(0, 0, 3, 3, matrica)<<endl;
-	cout << sumaparniindeks(0, 0, 3, 3, matrica);
+	cout<<"Suma svih: "<<sumasvih(0, 0, 3, 3, matrica)<<endl;
+	cout <<"Suma pozitivnih: "<< sumapozitivnih(0, 0, 3, 3, matrica)<<endl;
+	cout <<"Suma parni indeks: "<< sumaparniindeks(0, 0, 3, 3, matrica);
 	return 0;
 }
